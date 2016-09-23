@@ -1,0 +1,22 @@
+{
+  "name": "cmxreceiver-lambda",
+  "version": "1.0.0",
+  "description": "Cisco Meraki CMX Receiver API",
+  "main": "cmxreceiver-lambda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cisco",
+    "Meraki",
+    "Location",
+    "Analytics",
+    "CMX"
+  ],
+  "author": "Cory Guynn",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.6.4",
+    "claudia-api-builder": "^1.6.0",
+  }
+}

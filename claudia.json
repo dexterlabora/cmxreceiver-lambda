@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "cmxreceiver-lambda-executor",
+    "name": "cmxreceiver-lambda",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "j58tboqi1b",
+    "module": "cmxreceiver-lambda"
+  }
+}
